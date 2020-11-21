@@ -1,0 +1,8 @@
+['none', 'none', 'none', 'none', 'none']
+['none', 'none', 'none', 'none', 'none', 'none', 'none']
+['none', 'none', 'red', 'none', 'none', 'none', 'none']
+['none', 'red', 'red', 'red', 'red', 'red']
+['none', 'none', 'red', 'red', 'red', 'none']
+['none', 'none', 'none', 'none', 'none', 'none', 'none']
+['none', 'red', 'red', 'red', 'red', 'none', 'none']
+['none', 'red', 'red', 'red', 'red', 'none', 'red']
