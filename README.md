@@ -1,8 +1,8 @@
 # Projects
 
-Hey!
+**_Hey!_**
 
-My Name is Jeebula Bhaskar Saivinay and this is my projects repo.
+**My Name is Jeebula Bhaskar Saivinay and this is my projects repository.**
 
 ### Calculator
 
