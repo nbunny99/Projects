@@ -13,7 +13,7 @@ In this project, I've used Tkinter library as GUI for the calculator. As for the
 Only one operator can be used in the expression at a time, though it can be used multiple times but complex expressions currently will not be processed.
 
 
-### Smart Parking System
+### Smart Parking System (DE)
 
 This is a project We developed in team for Design Engineerng subject. Its a webserver application based in Django and python to get user info and place where the user wants to book the parking place and then the sensor in that place would be alerted. Also all the parking spots real time status would be visilble on the webserver it self. As this is a prototype, it shows dummy places with dummy data, a booking page which only has one sensor attached to it other for showing the working of booking.
 
