@@ -6,7 +6,7 @@
 
 ### Calculator
 
-In this project, I've used Tkinter library as GUI for the calculator. As for the actual working, the string typed would be fetched by a function, which will then process the string to identify operator and numbers using regex (Regular Expressions). Then the typed operation would be carried out and answer would be displayed in text box. 
+In this project, I've used Tkinter library as GUI for the calculator. As for the actual working, the string typed would be fetched by a function, which will then process the string to identify operator and number. Then the typed operation would be carried out and answer would be displayed in text box. 
 
 ##### Remark
 
